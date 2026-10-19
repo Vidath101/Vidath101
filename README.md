@@ -1,24 +1,127 @@
-<h1 align="center">Hi 👋, I'm Vidath101</h1>
-<h3 align="center">A student developer with an interest in embedded systems, cybersecurity, and low-level programming.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidath101&label=Profile%20views&color=0e75b6&style=flat" alt="vidath101" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:0b2545,100:00f5a0&text=VIDATH101&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=EMBEDDED%20SYSTEMS%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20SECURITY&descAlignY=59&descSize=15&animation=fadeIn" width="100%" alt="Vidath101 — embedded systems, software, security" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidath101" alt="vidath101" /></a> </p>
+<a href="https://github.com/Vidath101">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=620&lines=Student+developer;Exploring+software+from+the+hardware+up;Building+tools+for+real+systems;Learn+%E2%86%92+Build+%E2%86%92+Understand" alt="Animated introduction" />
+</a>
 
-- 🌱 I’m currently learning **React**
+<br/>
 
-- 📫 How to reach me **vidathsathsara101@gmail.com**
+<a href="https://github.com/Vidath101?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-00F5A0?style=for-the-badge&logo=github&logoColor=050816&labelColor=111827" alt="Repositories" />
+</a>
+<a href="mailto:vidathsathsara101@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-00F5A0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Contact by email" />
+</a>
+<a href="https://instagram.com/vidath101">
+  <img src="https://img.shields.io/badge/INSTAGRAM-00F5A0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111827" alt="Instagram" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vidath101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vidath101" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidath101&show_icons=true&locale=en&layout=compact" alt="vidath101" /></p>
+## `01 / ABOUT`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidath101&show_icons=true&locale=en" alt="vidath101" /></p>
+I'm a student developer interested in how software interacts with hardware, how systems behave under the hood, and how technology can be made more useful and reliable.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidath101&" alt="vidath101" /></p>
+My interests sit at the intersection of **embedded systems, hardware communication, low-level programming, and cybersecurity**. I like learning by building practical tools, testing ideas, and figuring out what is happening beneath the abstraction.
+
+```text
+vidath@github:~$ whoami
+Student developer
+
+vidath@github:~$ interests
+Embedded systems | System internals | Security
+
+vidath@github:~$ current_focus
+React + deeper software and hardware fundamentals
+```
+
+- Currently learning **React**
+- Interested in **embedded development and hardware communication**
+- Exploring **Linux, programming, and cybersecurity**
+- Prefer understanding how a system works over treating it as a black box
+
+## `02 / SELECTED WORK`
+
+### [Universal Serial Monitor](https://github.com/Vidath101/Universal-Serial-Monitor)
+
+A Python-based terminal serial monitor aimed at embedded developers, makers, and hardware engineers who need to communicate with serial devices.
+
+**Focus areas:** serial communication · terminal tooling · Python · embedded development
+
+[View repository →](https://github.com/Vidath101/Universal-Serial-Monitor)
+
+### [AUTOserial](https://github.com/Vidath101/AUTOserial)
+
+A Python library designed to simplify hardware communication by presenting a consistent API over different communication protocols and devices.
+
+**Focus areas:** hardware abstraction · device communication · Python · embedded systems
+
+[View repository →](https://github.com/Vidath101/AUTOserial)
+
+> These summaries describe the projects at a high level. Check each repository's documentation for its current features, supported platforms, installation steps, and limitations.
+
+## `03 / TECH STACK`
+
+The technologies below reflect the tools and languages represented in my development interests and existing profile. Familiarity varies; this is a learning-in-progress, not a claim of expert-level proficiency in every item.
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,ts,html,css,php&theme=dark" alt="Python, C, C++, Bash, JavaScript, TypeScript, HTML, CSS, PHP" />
+
+### Systems, hardware & development
+
+<img src="https://skillicons.dev/icons?i=linux,arduino,git,github,vscode&theme=dark" alt="Linux, Arduino, Git, GitHub, Visual Studio Code" />
+
+### Web & data
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,mysql,graphql,qt&theme=dark" alt="React, Node.js, Express, Bootstrap, MySQL, GraphQL, Qt" />
+
+### Additional tools explored
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,selenium&theme=dark" alt="PyTorch, TensorFlow, Selenium" />
+
+</div>
+
+## `04 / GITHUB ACTIVITY`
+
+<div align="center">
+
+<a href="https://github.com/Vidath101">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vidath101&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5A0&icon_color=00F5A0&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/Vidath101">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidath101&layout=compact&hide_border=true&bg_color=050816&title_color=00F5A0&text_color=C9D1D9&langs_count=8" alt="Most-used languages on GitHub" />
+</a>
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Vidath101&hide_border=true&background=050816&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7F8EA3" alt="GitHub contribution streak" />
+
+</div>
+
+<sub>Statistics are generated by external services and may be delayed, incomplete, or temporarily unavailable. Language cards indicate repository language distribution, not proficiency.</sub>
+
+## `05 / CONNECT`
+
+<div align="center">
+
+<a href="mailto:vidathsathsara101@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-vidathsathsara101%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+<a href="https://instagram.com/vidath101">
+  <img src="https://img.shields.io/badge/INSTAGRAM-%40vidath101-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+</a>
+
+<br/><br/>
+
+<code>Understand the hardware. Inspect the software. Question the assumptions.</code>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:050816&height=100&section=footer" width="100%" alt="Profile footer" />
+
+</div>
