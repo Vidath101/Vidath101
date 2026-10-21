@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:0b2545,100:00f5a0&text=VIDATH101&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=EMBEDDED%20SYSTEMS%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20SECURITY&descAlignY=59&descSize=15&animation=fadeIn" width="100%" alt="Vidath101 — embedded systems, software, security" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:0b2545,100:00f5a0&text=VIDATH101&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=WEB%20DEVELOPMENT%20%E2%80%A2%20EMBEDDED%20SYSTEMS%20%E2%80%A2%20SYSTEMS&descAlignY=59&descSize=15&animation=fadeIn" width="100%" alt="Vidath101 — web development, embedded systems, and systems programming" />
 
-<a href="https://github.com/Vidath101">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=620&lines=Student+developer;Exploring+software+from+the+hardware+up;Building+tools+for+real+systems;Learn+%E2%86%92+Build+%E2%86%92+Understand" alt="Animated introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=620&lines=Student+developer;Building+for+the+web+and+embedded+devices;Learning+how+software+works+under+the+hood;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Animated introduction" />
 
 <br/>
 
 <a href="https://github.com/Vidath101?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-00F5A0?style=for-the-badge&logo=github&logoColor=050816&labelColor=111827" alt="Repositories" />
+  <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-00F5A0?style=for-the-badge&logo=github&logoColor=050816&labelColor=111827" alt="Explore repositories" />
 </a>
 <a href="mailto:vidathsathsara101@gmail.com">
   <img src="https://img.shields.io/badge/CONTACT-00F5A0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Contact by email" />
@@ -24,67 +22,61 @@
 
 ## `01 / ABOUT`
 
-I'm a student developer interested in how software interacts with hardware, how systems behave under the hood, and how technology can be made more useful and reliable.
+I'm a student developer who enjoys building practical software and understanding how technology works beneath the surface. My current focus is **web development and front-end technologies**, alongside ongoing interests in **embedded systems, low-level programming, and computer security**.
 
-My interests sit at the intersection of **embedded systems, hardware communication, low-level programming, and cybersecurity**. I like learning by building practical tools, testing ideas, and figuring out what is happening beneath the abstraction.
+I learn by experimenting, building projects, and working through technical problems. I'm currently learning **React** and developing my skills across both the web and hardware-facing software.
 
 ```text
 vidath@github:~$ whoami
 Student developer
 
-vidath@github:~$ interests
-Embedded systems | System internals | Security
-
 vidath@github:~$ current_focus
-React + deeper software and hardware fundamentals
+Front-end development | React | Practical software projects
+
+vidath@github:~$ exploring
+Embedded systems | C/C++ | Linux | Cybersecurity fundamentals
 ```
 
-- Currently learning **React**
-- Interested in **embedded development and hardware communication**
-- Exploring **Linux, programming, and cybersecurity**
-- Prefer understanding how a system works over treating it as a black box
+- Building websites and exploring modern front-end development.
+- Learning React and improving my understanding of web technologies.
+- Interested in ESP32 development, wireless networking, and systems programming.
+- Learning cybersecurity and penetration-testing concepts at my own pace.
 
-## `02 / SELECTED WORK`
+## `02 / CURRENT & SELECTED WORK`
 
-### [Universal Serial Monitor](https://github.com/Vidath101/Universal-Serial-Monitor)
+### [TooManyRouters](https://github.com/Vidath101/TooManyRouters)
 
-A Python-based terminal serial monitor aimed at embedded developers, makers, and hardware engineers who need to communicate with serial devices.
+An ESP32-based wireless research project that demonstrates how custom IEEE 802.11 beacon frames can be generated and transmitted. It is built with the Arduino framework and PlatformIO, and provides serial commands to control its demonstration modes.
 
-**Focus areas:** serial communication · terminal tooling · Python · embedded development
+**Focus:** ESP32 · C++ · Wi-Fi management frames · PlatformIO · embedded development
 
-[View repository →](https://github.com/Vidath101/Universal-Serial-Monitor)
+> For educational and authorized testing only. Use wireless experimentation tools only on equipment and in environments where you have permission.
 
-### [AUTOserial](https://github.com/Vidath101/AUTOserial)
+### New Lucky — Business Website
 
-A Python library designed to simplify hardware communication by presenting a consistent API over different communication protocols and devices.
+Developing a website for New Lucky to establish its online presence and present business information through a dedicated web platform. The site is still in development and has **not yet been deployed**.
 
-**Focus areas:** hardware abstraction · device communication · Python · embedded systems
+**Focus:** Website development · front-end design · domain and DNS configuration · deployment preparation
 
-[View repository →](https://github.com/Vidath101/AUTOserial)
+*This website is an ongoing project; its final features and deployment details may change.*
 
-> These summaries describe the projects at a high level. Check each repository's documentation for its current features, supported platforms, installation steps, and limitations.
+## `03 / TECHNOLOGIES I'M LEARNING`
 
-## `03 / TECH STACK`
-
-The technologies below reflect the tools and languages represented in my development interests and existing profile. Familiarity varies; this is a learning-in-progress, not a claim of expert-level proficiency in every item.
+The icons below represent technologies I work with or am exploring. They do not imply expert-level proficiency in every technology.
 
 <div align="center">
 
-### Languages
+**Web development**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,ts,html,css,php&theme=dark" alt="Python, C, C++, Bash, JavaScript, TypeScript, HTML, CSS, PHP" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, and React" />
 
-### Systems, hardware & development
+**Programming & systems**
 
-<img src="https://skillicons.dev/icons?i=linux,arduino,git,github,vscode&theme=dark" alt="Linux, Arduino, Git, GitHub, Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,bash&theme=dark" alt="Python, C, C++, Linux, and Bash" />
 
-### Web & data
+**Embedded development & tools**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,mysql,graphql,qt&theme=dark" alt="React, Node.js, Express, Bootstrap, MySQL, GraphQL, Qt" />
-
-### Additional tools explored
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,selenium&theme=dark" alt="PyTorch, TensorFlow, Selenium" />
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" alt="Arduino, Git, GitHub, and Visual Studio Code" />
 
 </div>
 
@@ -105,7 +97,7 @@ The technologies below reflect the tools and languages represented in my develop
 
 </div>
 
-<sub>Statistics are generated by external services and may be delayed, incomplete, or temporarily unavailable. Language cards indicate repository language distribution, not proficiency.</sub>
+<sub>GitHub statistics are generated by third-party services and may be delayed or temporarily unavailable. Language statistics reflect repository contents, not skill level.</sub>
 
 ## `05 / CONNECT`
 
@@ -120,7 +112,7 @@ The technologies below reflect the tools and languages represented in my develop
 
 <br/><br/>
 
-<code>Understand the hardware. Inspect the software. Question the assumptions.</code>
+<code>Build with curiosity. Understand the details. Keep improving.</code>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:050816&height=100&section=footer" width="100%" alt="Profile footer" />
 
